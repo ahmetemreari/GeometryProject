@@ -1,0 +1,14 @@
+/Users/ahmetemreari/Desktop/GeometryProject/GeometryProject/bin/Debug/net8.0/GeometryProject
+/Users/ahmetemreari/Desktop/GeometryProject/GeometryProject/bin/Debug/net8.0/GeometryProject.deps.json
+/Users/ahmetemreari/Desktop/GeometryProject/GeometryProject/bin/Debug/net8.0/GeometryProject.runtimeconfig.json
+/Users/ahmetemreari/Desktop/GeometryProject/GeometryProject/bin/Debug/net8.0/GeometryProject.dll
+/Users/ahmetemreari/Desktop/GeometryProject/GeometryProject/bin/Debug/net8.0/GeometryProject.pdb
+/Users/ahmetemreari/Desktop/GeometryProject/GeometryProject/obj/Debug/net8.0/GeometryProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmetemreari/Desktop/GeometryProject/GeometryProject/obj/Debug/net8.0/GeometryProject.AssemblyInfoInputs.cache
+/Users/ahmetemreari/Desktop/GeometryProject/GeometryProject/obj/Debug/net8.0/GeometryProject.AssemblyInfo.cs
+/Users/ahmetemreari/Desktop/GeometryProject/GeometryProject/obj/Debug/net8.0/GeometryProject.csproj.CoreCompileInputs.cache
+/Users/ahmetemreari/Desktop/GeometryProject/GeometryProject/obj/Debug/net8.0/GeometryProject.dll
+/Users/ahmetemreari/Desktop/GeometryProject/GeometryProject/obj/Debug/net8.0/refint/GeometryProject.dll
+/Users/ahmetemreari/Desktop/GeometryProject/GeometryProject/obj/Debug/net8.0/GeometryProject.pdb
+/Users/ahmetemreari/Desktop/GeometryProject/GeometryProject/obj/Debug/net8.0/GeometryProject.genruntimeconfig.cache
+/Users/ahmetemreari/Desktop/GeometryProject/GeometryProject/obj/Debug/net8.0/ref/GeometryProject.dll
